@@ -1,0 +1,6 @@
+requests
+librosa
+numpy
+moviepy
+opencv-python
+pillow
